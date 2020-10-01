@@ -1,2 +1,2 @@
 # Recon
-Automate your Recon 
+Automate Your Recon 
