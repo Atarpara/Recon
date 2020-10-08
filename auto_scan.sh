@@ -1,6 +1,8 @@
-#!/bin/bash
 
-input=$1
+echo"start scan"
+
+input=$100
+out=150
 
 masscan_scan() {
 mkdir -p ip tmp nmap
